@@ -1,0 +1,41 @@
+#include <windows.h>
+
+#define IDI_MAIN_ICON 101
+IDI_MAIN_ICON ICON "favicon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,1,0,0
+ PRODUCTVERSION 0,1,0,0
+ FILEFLAGSMASK 0x3fL
+
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName",      "zigisoftware\0"
+            VALUE "FileDescription",  "LC Manager - QoL App\0"
+            VALUE "FileVersion",      "0.1.0.0\0"
+            VALUE "InternalName",     "lc_manager.exe\0"
+            VALUE "LegalCopyright",   "Copyright (C) 2026 zigisoftware\0"
+            VALUE "OriginalFilename", "lc_manager.exe\0"
+            VALUE "ProductName",      "LC Manager\0"
+            VALUE "ProductVersion",   "0.1.0.0\0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1200
+    END
+END
