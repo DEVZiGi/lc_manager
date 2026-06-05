@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dawid\\Desktop\\PROJEKTY\\L-CORP\\lc_manager\\lc_manager_sdk\\lc_manager_sdk.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dawid\\Desktop\\PROJEKTY\\L-CORP\\lc_manager\\lc_manager_sdk\\lc_manager_sdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dawid\\Desktop\\PROJEKTY\\L-CORP\\lc_manager\\lc_manager_sdk\\lc_manager_sdk.csproj",
+        "projectName": "lc_manager_sdk",
+        "projectPath": "C:\\Users\\dawid\\Desktop\\PROJEKTY\\L-CORP\\lc_manager\\lc_manager_sdk\\lc_manager_sdk.csproj",
+        "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dawid\\Desktop\\PROJEKTY\\L-CORP\\lc_manager\\lc_manager_sdk\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dawid\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

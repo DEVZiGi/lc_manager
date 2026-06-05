@@ -1,0 +1,10 @@
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\bin\Debug\lc_manager_sdk.dll
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\bin\Debug\lc_manager_sdk.pdb
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.IgnoresAccessChecksTo.cs
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.AssemblyInfo.cs
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.dll
+C:\Users\dawid\Desktop\PROJEKTY\L-CORP\lc_manager\lc_manager_sdk\obj\Debug\lc_manager_sdk.pdb

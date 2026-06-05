@@ -24,6 +24,18 @@ struct Equipment {
     std::string name;
     bool hasBonus;
     EquipmentStats stats;
+    std::string abnormalityName;
+    std::string abnormalityId;
+    std::string dmgType;
+    std::string dmg;
+    std::string attackSpeed;
+    std::string range;
+    std::string weaponType;
+    std::string defenseRed;
+    std::string defenseWhite;
+    std::string defenseBlack;
+    std::string defensePale;
+    std::string attachmentSlot;
 };
 
 class DatabaseManager {
