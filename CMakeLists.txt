@@ -42,7 +42,7 @@ set(RESOURCE_FILE
 )
 
 # 5 - KOMPILACJA
-add_executable(lc_manager WIN32 main.cpp ${IMGUI_SOURCES} ${RESOURCE_FILE})
+add_executable(lc_manager WIN32 main.cpp utils.cpp config.cpp injector.cpp ui_components.cpp ui_tabs.cpp ${IMGUI_SOURCES} ${RESOURCE_FILE})
 target_include_directories(lc_manager PRIVATE imgui imgui/backends)
 target_link_directories(lc_manager PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/lib)
-target_link_libraries(lc_manager PRIVATE glfw opengl32 dwmapi nlohmann_json::nlohmann_json)
+target_link_libraries(lc_manager PRIVATE glfw opengl32 dwmapi nlohmann_json::nlohmann_json -static-libgcc -static-libstdc++ -static)

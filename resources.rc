@@ -3,9 +3,13 @@
 #define IDI_MAIN_ICON 101
 IDI_MAIN_ICON ICON "favicon.ico"
 
+SMI_EXE RCDATA "cmake-build-debug\\smi.exe"
+SMI_DLL RCDATA "cmake-build-debug\\SharpMonoInjector.dll"
+SDK_DLL RCDATA "cmake-build-debug\\lc_manager_sdk.dll"
+
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 0,1,0,0
- PRODUCTVERSION 0,1,0,0
+ FILEVERSION 0,2,0,0
+ PRODUCTVERSION 0,2,0,0
  FILEFLAGSMASK 0x3fL
 
 #ifdef _DEBUG
@@ -25,12 +29,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName",      "zigisoftware\0"
             VALUE "FileDescription",  "LC Manager - QoL App\0"
-            VALUE "FileVersion",      "0.1.0.0\0"
+            VALUE "FileVersion",      "0.2.0.0\0"
             VALUE "InternalName",     "lc_manager.exe\0"
             VALUE "LegalCopyright",   "Copyright (C) 2026 zigisoftware\0"
             VALUE "OriginalFilename", "lc_manager.exe\0"
             VALUE "ProductName",      "LC Manager\0"
-            VALUE "ProductVersion",   "0.1.0.0\0"
+            VALUE "ProductVersion",   "0.2.0.0\0"
         END
     END
 
