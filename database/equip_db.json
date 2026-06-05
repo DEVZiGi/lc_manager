@@ -8,62 +8,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
-  },
-  "2": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "3": {
-    "type": "ARMOR",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "4": {
-    "type": "WEAPON",
-    "name": "Standard Riot Stick",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "5": {
-    "type": "ARMOR",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "11": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
+    },
+    "abnormality_name": "N/A",
+    "abnormality_id": "N/A",
+    "dmg_type": "RED",
+    "dmg": "4-6",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "22": {
     "type": "ARMOR",
@@ -74,51 +26,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
-  },
-  "101": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "200": {
-    "type": "ARMOR",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "1021": {
-    "type": "GIFT",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "1022": {
-    "type": "GIFT",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
+    },
+    "abnormality_name": "N/A",
+    "abnormality_id": "N/A",
+    "defense_RED": "1; NORMAL",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "1.5; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "1023": {
     "type": "GIFT",
@@ -129,7 +43,10 @@
       "sp": 6,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Snow Queen",
+    "abnormality_id": "100102",
+    "attachment_slot": "RIGHTCHEEK"
   },
   "1033": {
     "type": "GIFT",
@@ -140,62 +57,10 @@
       "sp": -3,
       "ws": 0,
       "as": 0
-    }
-  },
-  "100018": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "100036": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "100041": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "100046": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
-  },
-  "100105": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
+    },
+    "abnormality_name": "N/A",
+    "abnormality_id": "N/A",
+    "attachment_slot": "HEAD"
   },
   "177777": {
     "type": "WEAPON",
@@ -206,7 +71,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "N/A",
+    "abnormality_id": "N/A",
+    "dmg_type": "PALE",
+    "dmg": "9999-99999",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200000": {
     "type": "WEAPON",
@@ -217,7 +89,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Standard Training-Dummy Rabbit",
+    "abnormality_id": "100000",
+    "dmg_type": "WHITE",
+    "dmg": "5-7",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200001": {
     "type": "WEAPON",
@@ -228,7 +107,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scorched Girl",
+    "abnormality_id": "100001",
+    "dmg_type": "RED",
+    "dmg": "20-30",
+    "attack_speed": "VerySlow; 5",
+    "range": "Long; 15",
+    "weapon_type": "CANNON"
   },
   "200002": {
     "type": "WEAPON",
@@ -239,7 +125,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Happy Teddy Bear",
+    "abnormality_id": "100002",
+    "dmg_type": "RED",
+    "dmg": "7",
+    "attack_speed": "Normal; 2",
+    "range": "VeryShort; 2",
+    "weapon_type": "FIST"
   },
   "200003": {
     "type": "WEAPON",
@@ -250,7 +143,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Red Shoes",
+    "abnormality_id": "100003",
+    "dmg_type": "RED",
+    "dmg": "5-7",
+    "attack_speed": "VeryFast; 1",
+    "range": "VeryShort; 2",
+    "weapon_type": "AXE"
   },
   "200004": {
     "type": "WEAPON",
@@ -261,7 +161,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Queen of Hatred",
+    "abnormality_id": "100004",
+    "dmg_type": "BLACK",
+    "dmg": "5-8",
+    "attack_speed": "VeryFast; 0.83",
+    "range": "VeryLong; 80",
+    "weapon_type": "SPECIAL"
   },
   "200005": {
     "type": "WEAPON",
@@ -272,7 +179,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Nothing There",
+    "abnormality_id": "100005",
+    "dmg_type": "RED",
+    "dmg": "10-14",
+    "attack_speed": "Fast; 1.2",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200006": {
     "type": "WEAPON",
@@ -283,7 +197,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Singing Machine",
+    "abnormality_id": "100006",
+    "dmg_type": "WHITE",
+    "dmg": "30-50",
+    "attack_speed": "VerySlow; 5",
+    "range": "Long; 15",
+    "weapon_type": "CANNON"
   },
   "200008": {
     "type": "WEAPON",
@@ -294,7 +215,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Big Bird",
+    "abnormality_id": "100008",
+    "dmg_type": "BLACK",
+    "dmg": "22-28",
+    "attack_speed": "Slow; 3",
+    "range": "Medium; 5",
+    "weapon_type": "HAMMER"
   },
   "200009": {
     "type": "WEAPON",
@@ -305,7 +233,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "One Sin and Hundreds of Good Deeds",
+    "abnormality_id": "100009",
+    "dmg_type": "WHITE",
+    "dmg": "5-7",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200011": {
     "type": "WEAPON",
@@ -316,7 +251,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "All-Around Helper",
+    "abnormality_id": "100011",
+    "dmg_type": "RED",
+    "dmg": "1-3",
+    "attack_speed": "Fast; 1.6",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200012": {
     "type": "WEAPON",
@@ -327,7 +269,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Spider Bud",
+    "abnormality_id": "100012",
+    "dmg_type": "RED",
+    "dmg": "7-9",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200013": {
     "type": "WEAPON",
@@ -338,7 +287,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Beauty and the Beast",
+    "abnormality_id": "100013",
+    "dmg_type": "RED",
+    "dmg": "5-9",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200015": {
     "type": "WEAPON",
@@ -349,7 +305,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "WhiteNight",
+    "abnormality_id": "100015",
+    "dmg_type": "PALE",
+    "dmg": "22-28",
+    "attack_speed": "Fast; 1.83",
+    "range": "VeryLong; 80",
+    "weapon_type": "SPECIAL"
   },
   "200016": {
     "type": "WEAPON",
@@ -360,7 +323,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Rudolta of the Sleigh",
+    "abnormality_id": "100016",
+    "dmg_type": "WHITE",
+    "dmg": "11-13",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200017": {
     "type": "WEAPON",
@@ -371,7 +341,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Nameless Fetus",
+    "abnormality_id": "100017",
+    "dmg_type": "WHITE",
+    "dmg": "3",
+    "attack_speed": "VeryFast; 0.5",
+    "range": "Long; 10",
+    "weapon_type": "SPECIAL"
   },
   "200018": {
     "type": "WEAPON",
@@ -382,7 +359,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Forsaken Murderer",
+    "abnormality_id": "100018",
+    "dmg_type": "RED",
+    "dmg": "12-18",
+    "attack_speed": "Slow; 3",
+    "range": "Medium; 5",
+    "weapon_type": "HAMMER"
   },
   "200019": {
     "type": "WEAPON",
@@ -393,7 +377,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Silent Orchestra",
+    "abnormality_id": "100019",
+    "dmg_type": "WHITE",
+    "dmg": "4-5",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200020": {
     "type": "WEAPON",
@@ -404,7 +395,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Punishing Bird",
+    "abnormality_id": "100020",
+    "dmg_type": "RED",
+    "dmg": "2-3",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "Long; 10",
+    "weapon_type": "PISTOL"
   },
   "200021": {
     "type": "WEAPON",
@@ -415,7 +413,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Old Lady",
+    "abnormality_id": "100021",
+    "dmg_type": "WHITE",
+    "dmg": "2-3",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "Long; 10",
+    "weapon_type": "PISTOL"
   },
   "200022": {
     "type": "WEAPON",
@@ -426,7 +431,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Lady Facing the Wall",
+    "abnormality_id": "100022",
+    "dmg_type": "WHITE",
+    "dmg": "7-14",
+    "attack_speed": "Normal; 2",
+    "range": "VeryLong; 20",
+    "weapon_type": "BOWGUN"
   },
   "200023": {
     "type": "WEAPON",
@@ -437,7 +449,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Snow White's Apple",
+    "abnormality_id": "100023",
+    "dmg_type": "BLACK",
+    "dmg": "8-16",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200026": {
     "type": "WEAPON",
@@ -448,7 +467,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Queen Bee",
+    "abnormality_id": "100026",
+    "dmg_type": "RED",
+    "dmg": "7-8",
+    "attack_speed": "VeryFast; 1",
+    "range": "VeryLong; 25",
+    "weapon_type": "RIFLE"
   },
   "200027": {
     "type": "WEAPON",
@@ -459,7 +485,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Bloodbath",
+    "abnormality_id": "100027",
+    "dmg_type": "WHITE",
+    "dmg": "2-3",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "VeryShort; 2",
+    "weapon_type": "KNIFE"
   },
   "200028": {
     "type": "WEAPON",
@@ -470,7 +503,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Opened Can of WellCheers",
+    "abnormality_id": "100028",
+    "dmg_type": "RED",
+    "dmg": "1-2",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "Long; 10",
+    "weapon_type": "PISTOL"
   },
   "200029": {
     "type": "WEAPON",
@@ -481,7 +521,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Alriune",
+    "abnormality_id": "100029",
+    "dmg_type": "WHITE",
+    "dmg": "10-20",
+    "attack_speed": "Normal; 2",
+    "range": "VeryLong; 20",
+    "weapon_type": "BOWGUN"
   },
   "200031": {
     "type": "WEAPON",
@@ -492,7 +539,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Child of the Galaxy",
+    "abnormality_id": "100031",
+    "dmg_type": "BLACK",
+    "dmg": "9-15",
+    "attack_speed": "Normal; 2",
+    "range": "Medium; 8",
+    "weapon_type": "MACE"
   },
   "200032": {
     "type": "WEAPON",
@@ -503,7 +557,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Little Red Riding Hooded Mercenary",
+    "abnormality_id": "100032",
+    "dmg_type": "RED",
+    "dmg": "11-13",
+    "attack_speed": "Fast; 1.53",
+    "range": "VeryShort; 2",
+    "weapon_type": "SPECIAL"
   },
   "200033": {
     "type": "WEAPON",
@@ -514,7 +575,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Big and Will be Bad Wolf",
+    "abnormality_id": "100033",
+    "dmg_type": "RED",
+    "dmg": "12-17",
+    "attack_speed": "Fast; 1.83",
+    "range": "Short; 3",
+    "weapon_type": "SPECIAL"
   },
   "200034": {
     "type": "WEAPON",
@@ -525,7 +593,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "You’re Bald…",
+    "abnormality_id": "100034",
+    "dmg_type": "WHITE",
+    "dmg": "2-4",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "Long; 10",
+    "weapon_type": "PISTOL"
   },
   "200035": {
     "type": "WEAPON",
@@ -536,7 +611,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Judgement Bird",
+    "abnormality_id": "100035",
+    "dmg_type": "PALE",
+    "dmg": "2-4",
+    "attack_speed": "Normal; 2",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200036": {
     "type": "WEAPON",
@@ -547,7 +629,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fragment of the Universe",
+    "abnormality_id": "100036",
+    "dmg_type": "BLACK",
+    "dmg": "5-9",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200037": {
     "type": "WEAPON",
@@ -558,7 +647,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "dmg_type": "PALE",
+    "dmg": "7-9",
+    "attack_speed": "Fast; 1.3",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200038": {
     "type": "WEAPON",
@@ -569,7 +665,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Apocalypse Bird",
+    "abnormality_id": "N/A",
+    "dmg_type": "RED",
+    "dmg": "12-18",
+    "attack_speed": "Normal; 2",
+    "range": "Medium; 6",
+    "weapon_type": "SPECIAL"
   },
   "200039": {
     "type": "WEAPON",
@@ -580,7 +683,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The King of Greed",
+    "abnormality_id": "100039",
+    "dmg_type": "RED",
+    "dmg": "5-6",
+    "attack_speed": "Fast; 1.5",
+    "range": "VeryShort; 2",
+    "weapon_type": "SPECIAL"
   },
   "200040": {
     "type": "WEAPON",
@@ -591,7 +701,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Little Prince",
+    "abnormality_id": "100040",
+    "dmg_type": "WHITE",
+    "dmg": "8-16",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200041": {
     "type": "WEAPON",
@@ -602,7 +719,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Laetitia",
+    "abnormality_id": "100041",
+    "dmg_type": "BLACK",
+    "dmg": "5-6",
+    "attack_speed": "VeryFast; 1",
+    "range": "VeryLong; 25",
+    "weapon_type": "RIFLE"
   },
   "200042": {
     "type": "WEAPON",
@@ -613,7 +737,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Mountain of Smiling Bodies",
+    "abnormality_id": "100042",
+    "dmg_type": "BLACK",
+    "dmg": "12-18",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 5",
+    "weapon_type": "SPECIAL"
   },
   "200043": {
     "type": "WEAPON",
@@ -624,7 +755,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Funeral of the Dead Butterflies",
+    "abnormality_id": "100043",
+    "dmg_type": "WHITE",
+    "dmg": "2",
+    "attack_speed": "VeryFast; 0.5",
+    "range": "Long; 10",
+    "weapon_type": "SPECIAL"
   },
   "200044": {
     "type": "WEAPON",
@@ -635,7 +773,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Burrowing Heaven",
+    "abnormality_id": "100044",
+    "dmg_type": "RED",
+    "dmg": "8-16",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200045": {
     "type": "WEAPON",
@@ -646,7 +791,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Dream of a Black Swan",
+    "abnormality_id": "100045",
+    "dmg_type": "BLACK",
+    "dmg": "6-7",
+    "attack_speed": "Fast; 1.6",
+    "range": "Short; 3",
+    "weapon_type": "SPECIAL"
   },
   "200046": {
     "type": "WEAPON",
@@ -657,7 +809,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Naked Nest",
+    "abnormality_id": "100046",
+    "dmg_type": "RED",
+    "dmg": "35-50",
+    "attack_speed": "VerySlow; 5",
+    "range": "Long; 15",
+    "weapon_type": "CANNON"
   },
   "200047": {
     "type": "WEAPON",
@@ -668,7 +827,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Dreaming Current",
+    "abnormality_id": "100047",
+    "dmg_type": "WHITE",
+    "dmg": "2-4",
+    "attack_speed": "Fast; 1.5",
+    "range": "Long; 10",
+    "weapon_type": "SPECIAL"
   },
   "200048": {
     "type": "WEAPON",
@@ -679,7 +845,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Knight of Despair",
+    "abnormality_id": "100048",
+    "dmg_type": "WHITE",
+    "dmg": "9-12",
+    "attack_speed": "Fast; 1.3",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200049": {
     "type": "WEAPON",
@@ -690,7 +863,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Schadenfreude",
+    "abnormality_id": "100049",
+    "dmg_type": "RED",
+    "dmg": "1-4",
+    "attack_speed": "Normal; 2.9",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200050": {
     "type": "WEAPON",
@@ -701,7 +881,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scarecrow Searching for Wisdom",
+    "abnormality_id": "100050",
+    "dmg_type": "BLACK",
+    "dmg": "6-12",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200051": {
     "type": "WEAPON",
@@ -712,7 +899,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Warm-hearted Woodsman",
+    "abnormality_id": "100051",
+    "dmg_type": "RED",
+    "dmg": "15-21",
+    "attack_speed": "Slow; 3",
+    "range": "Medium; 5",
+    "weapon_type": "HAMMER"
   },
   "200052": {
     "type": "WEAPON",
@@ -723,7 +917,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Today’s Shy Look",
+    "abnormality_id": "100052",
+    "dmg_type": "BLACK",
+    "dmg": "2-3",
+    "attack_speed": "VeryFast; 0.667",
+    "range": "Long; 10",
+    "weapon_type": "PISTOL"
   },
   "200053": {
     "type": "WEAPON",
@@ -734,7 +935,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fairy Festival",
+    "abnormality_id": "100053",
+    "dmg_type": "RED",
+    "dmg": "5-7",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200054": {
     "type": "WEAPON",
@@ -745,7 +953,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Meat Lantern",
+    "abnormality_id": "100054",
+    "dmg_type": "BLACK",
+    "dmg": "12-18",
+    "attack_speed": "Slow; 3",
+    "range": "Medium; 5",
+    "weapon_type": "HAMMER"
   },
   "200055": {
     "type": "WEAPON",
@@ -756,7 +971,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Dimensional Refraction Variant",
+    "abnormality_id": "100055",
+    "dmg_type": "WHITE",
+    "dmg": "15-17",
+    "attack_speed": "Normal; 2",
+    "range": "Short; 3",
+    "weapon_type": "MACE"
   },
   "200056": {
     "type": "WEAPON",
@@ -767,7 +989,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "CENSORED",
+    "abnormality_id": "100056",
+    "dmg_type": "BLACK",
+    "dmg": "15-30",
+    "attack_speed": "Fast; 1.5",
+    "range": "Short; 3",
+    "weapon_type": "SPECIAL"
   },
   "200057": {
     "type": "WEAPON",
@@ -778,7 +1007,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Porccubus",
+    "abnormality_id": "100057",
+    "dmg_type": "BLACK",
+    "dmg": "1-4",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 5",
+    "weapon_type": "SPECIAL"
   },
   "200058": {
     "type": "WEAPON",
@@ -789,7 +1025,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Blue Star",
+    "abnormality_id": "100058",
+    "dmg_type": "WHITE",
+    "dmg": "8-12",
+    "attack_speed": "Fast; 1.5",
+    "range": "VeryLong; 25",
+    "weapon_type": "SPECIAL"
   },
   "200059": {
     "type": "WEAPON",
@@ -800,7 +1043,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Grave of Cherry Blossoms",
+    "abnormality_id": "100059",
+    "dmg_type": "WHITE",
+    "dmg": "1-2",
+    "attack_speed": "VeryFast; 1",
+    "range": "Medium; 5",
+    "weapon_type": "SPECIAL"
   },
   "200060": {
     "type": "WEAPON",
@@ -811,7 +1061,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Void Dream",
+    "abnormality_id": "100060",
+    "dmg_type": "WHITE",
+    "dmg": "1-2",
+    "attack_speed": "VeryFast; 1",
+    "range": "Medium; 8",
+    "weapon_type": "SPECIAL"
   },
   "200061": {
     "type": "WEAPON",
@@ -822,7 +1079,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Firebird",
+    "abnormality_id": "100061",
+    "dmg_type": "WHITE",
+    "dmg": "4-5",
+    "attack_speed": "VeryFast; 1",
+    "range": "Long; 15",
+    "weapon_type": "SPECIAL"
   },
   "200062": {
     "type": "WEAPON",
@@ -833,7 +1097,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Parasite Tree",
+    "abnormality_id": "100062",
+    "dmg_type": "RED",
+    "dmg": "10-20",
+    "attack_speed": "Normal; 2",
+    "range": "VeryLong; 20",
+    "weapon_type": "BOWGUN"
   },
   "200063": {
     "type": "WEAPON",
@@ -844,7 +1115,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Melting Love",
+    "abnormality_id": "100063",
+    "dmg_type": "BLACK",
+    "dmg": "22-44",
+    "attack_speed": "Slow; 3.47",
+    "range": "Long; 15",
+    "weapon_type": "SPECIAL"
   },
   "200064": {
     "type": "WEAPON",
@@ -855,7 +1133,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Army in Black",
+    "abnormality_id": "100064",
+    "dmg_type": "WHITE",
+    "dmg": "20-24",
+    "attack_speed": "Normal; 2",
+    "range": "VeryLong; 35",
+    "weapon_type": "SPECIAL"
   },
   "200065": {
     "type": "WEAPON",
@@ -866,7 +1151,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Il Pianto della Luna",
+    "abnormality_id": "100065",
+    "dmg_type": "WHITE",
+    "dmg": "8-10",
+    "attack_speed": "Fast; 1.6",
+    "range": "Short; 3",
+    "weapon_type": "SPECIAL"
   },
   "200102": {
     "type": "WEAPON",
@@ -877,7 +1169,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Snow Queen",
+    "abnormality_id": "100102",
+    "dmg_type": "WHITE",
+    "dmg": "6-12",
+    "attack_speed": "Fast; 1.5",
+    "range": "Medium; 4",
+    "weapon_type": "SPEAR"
   },
   "200103": {
     "type": "WEAPON",
@@ -888,7 +1187,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Der Freischütz",
+    "abnormality_id": "100103",
+    "dmg_type": "BLACK",
+    "dmg": "20-22",
+    "attack_speed": "Normal; 2.3",
+    "range": "VeryLong; 50",
+    "weapon_type": "SPECIAL"
   },
   "200104": {
     "type": "WEAPON",
@@ -899,7 +1205,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Yin",
+    "abnormality_id": "100104",
+    "dmg_type": "BLACK",
+    "dmg": "8-13",
+    "attack_speed": "Fast; 1.34",
+    "range": "Medium; 5",
+    "weapon_type": "SPECIAL"
   },
   "200105": {
     "type": "WEAPON",
@@ -910,7 +1223,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Clouded Monk",
+    "abnormality_id": "100105",
+    "dmg_type": "RED",
+    "dmg": "3-4",
+    "attack_speed": "Fast; 1.26",
+    "range": "Medium; 4",
+    "weapon_type": "SPECIAL"
   },
   "200106": {
     "type": "WEAPON",
@@ -921,7 +1241,14 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Ppodae",
+    "abnormality_id": "100106",
+    "dmg_type": "RED",
+    "dmg": "4-6",
+    "attack_speed": "Normal; 2",
+    "range": "VeryShort; 2",
+    "weapon_type": "FIST"
   },
   "277777": {
     "type": "ARMOR",
@@ -932,7 +1259,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "N/A",
+    "abnormality_id": "N/A",
+    "defense_RED": "0; IMMUNE",
+    "defense_WHITE": "0; IMMUNE",
+    "defense_BLACK": "0; IMMUNE",
+    "defense_PALE": "0; IMMUNE"
   },
   "300000": {
     "type": "ARMOR",
@@ -943,7 +1276,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Standard Training-Dummy Rabbit",
+    "abnormality_id": "100000",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "1.5; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300001": {
     "type": "ARMOR",
@@ -954,7 +1293,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scorched Girl",
+    "abnormality_id": "100001",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300002": {
     "type": "ARMOR",
@@ -965,7 +1310,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Happy Teddy Bear",
+    "abnormality_id": "100002",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "1; NORMAL",
+    "defense_PALE": "1.5; WEAK"
   },
   "300003": {
     "type": "ARMOR",
@@ -976,7 +1327,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Red Shoes",
+    "abnormality_id": "100003",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300004": {
     "type": "ARMOR",
@@ -987,7 +1344,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Queen of Hatred",
+    "abnormality_id": "100004",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.4; RESISTANT",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300005": {
     "type": "ARMOR",
@@ -998,7 +1361,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Nothing There",
+    "abnormality_id": "100005",
+    "defense_RED": "0.2; RESISTANT",
+    "defense_WHITE": "0.5; ENDURED",
+    "defense_BLACK": "0.5; ENDURED",
+    "defense_PALE": "1; NORMAL"
   },
   "300007": {
     "type": "ARMOR",
@@ -1009,7 +1378,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "1.76 MHz",
+    "abnormality_id": "100007",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300008": {
     "type": "ARMOR",
@@ -1020,7 +1395,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Big Bird",
+    "abnormality_id": "100008",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.4; RESISTANT",
+    "defense_PALE": "1.5; WEAK"
   },
   "300009": {
     "type": "ARMOR",
@@ -1031,7 +1412,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "One Sin and Hundreds of Good Deeds",
+    "abnormality_id": "100009",
+    "defense_RED": "0.9; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.9; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300011": {
     "type": "ARMOR",
@@ -1042,7 +1429,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "All-Around Helper",
+    "abnormality_id": "100011",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "1.3; WEAK",
+    "defense_BLACK": "0.9; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300012": {
     "type": "ARMOR",
@@ -1053,7 +1446,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Spider Bud",
+    "abnormality_id": "100012",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300013": {
     "type": "ARMOR",
@@ -1064,7 +1463,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Beauty and the Beast",
+    "abnormality_id": "100013",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1.5; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300015": {
     "type": "ARMOR",
@@ -1075,7 +1480,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "WhiteNight",
+    "abnormality_id": "100015",
+    "defense_RED": "0.2; RESISTANT",
+    "defense_WHITE": "0.2; RESISTANT",
+    "defense_BLACK": "0.2; RESISTANT",
+    "defense_PALE": "0.2; RESISTANT"
   },
   "300016": {
     "type": "ARMOR",
@@ -1086,7 +1497,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Rudolta of the Sleigh",
+    "abnormality_id": "100016",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1.3; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300017": {
     "type": "ARMOR",
@@ -1097,7 +1514,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Nameless Fetus",
+    "abnormality_id": "100017",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.5; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300018": {
     "type": "ARMOR",
@@ -1108,7 +1531,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Forsaken Murderer",
+    "abnormality_id": "100018",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300019": {
     "type": "ARMOR",
@@ -1119,7 +1548,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Silent Orchestra",
+    "abnormality_id": "100019",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "0.2; RESISTANT",
+    "defense_BLACK": "0.5; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300020": {
     "type": "ARMOR",
@@ -1130,7 +1565,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Punishing Bird",
+    "abnormality_id": "100020",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300021": {
     "type": "ARMOR",
@@ -1141,7 +1582,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Old Lady",
+    "abnormality_id": "100021",
+    "defense_RED": "1.5; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300022": {
     "type": "ARMOR",
@@ -1152,7 +1599,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Lady Facing the Wall",
+    "abnormality_id": "100022",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1; NORMAL",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300023": {
     "type": "ARMOR",
@@ -1163,7 +1616,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Snow White's Apple",
+    "abnormality_id": "100023",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300026": {
     "type": "ARMOR",
@@ -1174,7 +1633,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Queen Bee",
+    "abnormality_id": "100026",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300027": {
     "type": "ARMOR",
@@ -1185,7 +1650,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Bloodbath",
+    "abnormality_id": "100027",
+    "defense_RED": "1; NORMAL",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300028": {
     "type": "ARMOR",
@@ -1196,7 +1667,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Opened Can of WellCheers",
+    "abnormality_id": "100028",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "1; NORMAL",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300029": {
     "type": "ARMOR",
@@ -1207,7 +1684,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Alriune",
+    "abnormality_id": "100029",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300031": {
     "type": "ARMOR",
@@ -1218,7 +1701,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Child of the Galaxy",
+    "abnormality_id": "100031",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300032": {
     "type": "ARMOR",
@@ -1229,7 +1718,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Little Red Riding Hooded Mercenary",
+    "abnormality_id": "100032",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300033": {
     "type": "ARMOR",
@@ -1240,7 +1735,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Big and Will be Bad Wolf",
+    "abnormality_id": "100033",
+    "defense_RED": "0.4; RESISTANT",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300034": {
     "type": "ARMOR",
@@ -1251,7 +1752,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "You’re Bald…",
+    "abnormality_id": "100034",
+    "defense_RED": "1; NORMAL",
+    "defense_WHITE": "1; NORMAL",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300035": {
     "type": "ARMOR",
@@ -1262,7 +1769,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Judgement Bird",
+    "abnormality_id": "100035",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "0.5; ENDURED",
+    "defense_BLACK": "0.5; ENDURED",
+    "defense_PALE": "0.5; ENDURED"
   },
   "300036": {
     "type": "ARMOR",
@@ -1273,7 +1786,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fragment of the Universe",
+    "abnormality_id": "100036",
+    "defense_RED": "1; NORMAL",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300037": {
     "type": "ARMOR",
@@ -1284,7 +1803,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "0.9; ENDURED",
+    "defense_BLACK": "0.9; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300038": {
     "type": "ARMOR",
@@ -1295,7 +1820,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Apocalypse Bird",
+    "abnormality_id": "N/A",
+    "defense_RED": "0.3; RESISTANT",
+    "defense_WHITE": "0.3; RESISTANT",
+    "defense_BLACK": "0.3; RESISTANT",
+    "defense_PALE": "0.5; ENDURED"
   },
   "300039": {
     "type": "ARMOR",
@@ -1306,7 +1837,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The King of Greed",
+    "abnormality_id": "100039",
+    "defense_RED": "0.4; RESISTANT",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300040": {
     "type": "ARMOR",
@@ -1317,7 +1854,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Little Prince",
+    "abnormality_id": "100040",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300041": {
     "type": "ARMOR",
@@ -1328,7 +1871,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Laetitia",
+    "abnormality_id": "100041",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300042": {
     "type": "ARMOR",
@@ -1339,7 +1888,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Mountain of Smiling Bodies",
+    "abnormality_id": "100042",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "0.5; ENDURED",
+    "defense_BLACK": "0.2; RESISTANT",
+    "defense_PALE": "1; NORMAL"
   },
   "300043": {
     "type": "ARMOR",
@@ -1350,7 +1905,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Funeral of the Dead Butterflies",
+    "abnormality_id": "100043",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.5; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300044": {
     "type": "ARMOR",
@@ -1361,7 +1922,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Burrowing Heaven",
+    "abnormality_id": "100044",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300045": {
     "type": "ARMOR",
@@ -1372,7 +1939,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Dream of a Black Swan",
+    "abnormality_id": "100045",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300046": {
     "type": "ARMOR",
@@ -1383,7 +1956,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Naked Nest",
+    "abnormality_id": "100046",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300047": {
     "type": "ARMOR",
@@ -1394,7 +1973,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Dreaming Current",
+    "abnormality_id": "100047",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300048": {
     "type": "ARMOR",
@@ -1405,7 +1990,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Knight of Despair",
+    "abnormality_id": "100048",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "0.8; ENDURED"
   },
   "300049": {
     "type": "ARMOR",
@@ -1416,7 +2007,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Schadenfreude",
+    "abnormality_id": "100049",
+    "defense_RED": "1; NORMAL",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1; NORMAL",
+    "defense_PALE": "1.5; WEAK"
   },
   "300050": {
     "type": "ARMOR",
@@ -1427,7 +2024,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scarecrow Searching for Wisdom",
+    "abnormality_id": "100050",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1.3; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300051": {
     "type": "ARMOR",
@@ -1438,7 +2041,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Warm-hearted Woodsman",
+    "abnormality_id": "100051",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "1.2; WEAK",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300052": {
     "type": "ARMOR",
@@ -1449,7 +2058,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Today’s Shy Look",
+    "abnormality_id": "100052",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1.5; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300053": {
     "type": "ARMOR",
@@ -1460,7 +2075,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fairy Festival",
+    "abnormality_id": "100053",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "1; NORMAL",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300054": {
     "type": "ARMOR",
@@ -1471,7 +2092,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Meat Lantern",
+    "abnormality_id": "100054",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "1.2; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300057": {
     "type": "ARMOR",
@@ -1482,7 +2109,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Porccubus",
+    "abnormality_id": "100057",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300058": {
     "type": "ARMOR",
@@ -1493,7 +2126,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Blue Star",
+    "abnormality_id": "100058",
+    "defense_RED": "0.4; RESISTANT",
+    "defense_WHITE": "0.4; RESISTANT",
+    "defense_BLACK": "0.4; RESISTANT",
+    "defense_PALE": "1; NORMAL"
   },
   "300059": {
     "type": "ARMOR",
@@ -1504,7 +2143,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Grave of Cherry Blossoms",
+    "abnormality_id": "100059",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300060": {
     "type": "ARMOR",
@@ -1515,7 +2160,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Void Dream",
+    "abnormality_id": "100060",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300061": {
     "type": "ARMOR",
@@ -1526,7 +2177,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Firebird",
+    "abnormality_id": "100061",
+    "defense_RED": "0.6; ENDURED",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "1.3; WEAK",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300062": {
     "type": "ARMOR",
@@ -1537,7 +2194,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Parasite Tree",
+    "abnormality_id": "100062",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.5; ENDURED",
+    "defense_BLACK": "1.3; WEAK",
+    "defense_PALE": "1.5; WEAK"
   },
   "300063": {
     "type": "ARMOR",
@@ -1548,7 +2211,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Melting Love",
+    "abnormality_id": "100063",
+    "defense_RED": "0.3; RESISTANT",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "0.3; RESISTANT",
+    "defense_PALE": "1; NORMAL"
   },
   "300064": {
     "type": "ARMOR",
@@ -1559,7 +2228,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Army in Black",
+    "abnormality_id": "100064",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "0.3; RESISTANT",
+    "defense_BLACK": "0.4; RESISTANT",
+    "defense_PALE": "1; NORMAL"
   },
   "300065": {
     "type": "ARMOR",
@@ -1570,7 +2245,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Il Pianto della Luna",
+    "abnormality_id": "100065",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "0.4; RESISTANT",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "300102": {
     "type": "ARMOR",
@@ -1581,7 +2262,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Snow Queen",
+    "abnormality_id": "100102",
+    "defense_RED": "1.3; WEAK",
+    "defense_WHITE": "0.6; ENDURED",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300103": {
     "type": "ARMOR",
@@ -1592,7 +2279,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Der Freischütz",
+    "abnormality_id": "100103",
+    "defense_RED": "0.7; ENDURED",
+    "defense_WHITE": "0.7; ENDURED",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300104": {
     "type": "ARMOR",
@@ -1603,7 +2296,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Yin",
+    "abnormality_id": "100104",
+    "defense_RED": "1.2; WEAK",
+    "defense_WHITE": "0.8; ENDURED",
+    "defense_BLACK": "0.6; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300105": {
     "type": "ARMOR",
@@ -1614,7 +2313,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Clouded Monk",
+    "abnormality_id": "100105",
+    "defense_RED": "0.5; ENDURED",
+    "defense_WHITE": "1.3; WEAK",
+    "defense_BLACK": "0.7; ENDURED",
+    "defense_PALE": "1.5; WEAK"
   },
   "300106": {
     "type": "ARMOR",
@@ -1625,7 +2330,13 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Ppodae",
+    "abnormality_id": "100106",
+    "defense_RED": "0.8; ENDURED",
+    "defense_WHITE": "1.5; WEAK",
+    "defense_BLACK": "0.8; ENDURED",
+    "defense_PALE": "2; VULNERABLE"
   },
   "400000": {
     "type": "GIFT",
@@ -1636,7 +2347,10 @@
       "sp": 2,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Standard Training-Dummy Rabbit",
+    "abnormality_id": "100000",
+    "attachment_slot": "HEAD"
   },
   "400001": {
     "type": "GIFT",
@@ -1647,7 +2361,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scorched Girl",
+    "abnormality_id": "100001",
+    "attachment_slot": "MOUTH"
   },
   "400002": {
     "type": "GIFT",
@@ -1658,7 +2375,10 @@
       "sp": 4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Happy Teddy Bear",
+    "abnormality_id": "100002",
+    "attachment_slot": "HEAD"
   },
   "400003": {
     "type": "GIFT",
@@ -1669,7 +2389,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Red Shoes",
+    "abnormality_id": "100003",
+    "attachment_slot": "MOUTH"
   },
   "400004": {
     "type": "GIFT",
@@ -1680,7 +2403,10 @@
       "sp": 0,
       "ws": 2,
       "as": 4
-    }
+    },
+    "abnormality_name": "The Queen of Hatred",
+    "abnormality_id": "100004",
+    "attachment_slot": "HEAD"
   },
   "400005": {
     "type": "GIFT",
@@ -1691,7 +2417,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Nothing There",
+    "abnormality_id": "100005",
+    "attachment_slot": "RIGHTCHEEK"
   },
   "400006": {
     "type": "GIFT",
@@ -1702,7 +2431,10 @@
       "sp": -4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Singing Machine",
+    "abnormality_id": "100006",
+    "attachment_slot": "RIGHTCHEEK"
   },
   "400007": {
     "type": "GIFT",
@@ -1713,7 +2445,10 @@
       "sp": 0,
       "ws": 0,
       "as": 2
-    }
+    },
+    "abnormality_name": "1.76 MHz",
+    "abnormality_id": "100007",
+    "attachment_slot": "BODY_UP"
   },
   "400008": {
     "type": "GIFT",
@@ -1724,7 +2459,10 @@
       "sp": 0,
       "ws": 3,
       "as": 0
-    }
+    },
+    "abnormality_name": "Big Bird",
+    "abnormality_id": "100008",
+    "attachment_slot": "HAIR"
   },
   "400009": {
     "type": "GIFT",
@@ -1735,7 +2473,10 @@
       "sp": 2,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "One Sin and Hundreds of Good Deeds",
+    "abnormality_id": "100009",
+    "attachment_slot": "HEAD"
   },
   "400011": {
     "type": "GIFT",
@@ -1746,7 +2487,10 @@
       "sp": 0,
       "ws": 4,
       "as": 0
-    }
+    },
+    "abnormality_name": "All-Around Helper",
+    "abnormality_id": "100011",
+    "attachment_slot": "EYE"
   },
   "400012": {
     "type": "GIFT",
@@ -1757,7 +2501,10 @@
       "sp": 0,
       "ws": 3,
       "as": 0
-    }
+    },
+    "abnormality_name": "Spider Bud",
+    "abnormality_id": "100012",
+    "attachment_slot": "EYE"
   },
   "400013": {
     "type": "GIFT",
@@ -1768,7 +2515,10 @@
       "sp": 2,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Beauty and the Beast",
+    "abnormality_id": "100013",
+    "attachment_slot": "HEAD"
   },
   "400014": {
     "type": "GIFT",
@@ -1779,7 +2529,10 @@
       "sp": 6,
       "ws": 6,
       "as": 6
-    }
+    },
+    "abnormality_name": "Plague Doctor",
+    "abnormality_id": "100014",
+    "attachment_slot": "HEADBACK"
   },
   "400015": {
     "type": "GIFT",
@@ -1790,7 +2543,10 @@
       "sp": 10,
       "ws": 0,
       "as": 10
-    }
+    },
+    "abnormality_name": "WhiteNight",
+    "abnormality_id": "100015",
+    "attachment_slot": "BACK2"
   },
   "400016": {
     "type": "GIFT",
@@ -1801,7 +2557,10 @@
       "sp": 8,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Rudolta of the Sleigh",
+    "abnormality_id": "100016",
+    "attachment_slot": "HEAD"
   },
   "400017": {
     "type": "GIFT",
@@ -1812,7 +2571,10 @@
       "sp": -2,
       "ws": 0,
       "as": 6
-    }
+    },
+    "abnormality_name": "Nameless Fetus",
+    "abnormality_id": "100017",
+    "attachment_slot": "HAIR"
   },
   "400018": {
     "type": "GIFT",
@@ -1823,7 +2585,10 @@
       "sp": 2,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Forsaken Murderer",
+    "abnormality_id": "100018",
+    "attachment_slot": "MOUTH"
   },
   "400019": {
     "type": "GIFT",
@@ -1834,7 +2599,10 @@
       "sp": 0,
       "ws": 4,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Silent Orchestra",
+    "abnormality_id": "100019",
+    "attachment_slot": "EYE"
   },
   "400020": {
     "type": "GIFT",
@@ -1845,7 +2613,10 @@
       "sp": 0,
       "ws": 0,
       "as": 2
-    }
+    },
+    "abnormality_name": "Punishing Bird",
+    "abnormality_id": "100020",
+    "attachment_slot": "RIBBORN"
   },
   "400021": {
     "type": "GIFT",
@@ -1856,7 +2627,10 @@
       "sp": 0,
       "ws": 3,
       "as": 0
-    }
+    },
+    "abnormality_name": "Old Lady",
+    "abnormality_id": "100021",
+    "attachment_slot": "EYE"
   },
   "400023": {
     "type": "GIFT",
@@ -1867,7 +2641,10 @@
       "sp": 6,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Snow White's Apple",
+    "abnormality_id": "100023",
+    "attachment_slot": "BODY_UP"
   },
   "400026": {
     "type": "GIFT",
@@ -1878,7 +2655,10 @@
       "sp": 4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Queen Bee",
+    "abnormality_id": "100026",
+    "attachment_slot": "HAIR"
   },
   "400027": {
     "type": "GIFT",
@@ -1889,7 +2669,10 @@
       "sp": 0,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "Bloodbath",
+    "abnormality_id": "100027",
+    "attachment_slot": "RIGHTHAND"
   },
   "400028": {
     "type": "GIFT",
@@ -1900,7 +2683,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Opened Can of WellCheers",
+    "abnormality_id": "100028",
+    "attachment_slot": "MOUTH"
   },
   "400029": {
     "type": "GIFT",
@@ -1911,7 +2697,10 @@
       "sp": 4,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "Alriune",
+    "abnormality_id": "100029",
+    "attachment_slot": "HEAD"
   },
   "400031": {
     "type": "GIFT",
@@ -1922,7 +2711,10 @@
       "sp": 0,
       "ws": 3,
       "as": 0
-    }
+    },
+    "abnormality_name": "Child of the Galaxy",
+    "abnormality_id": "100031",
+    "attachment_slot": "RIBBORN"
   },
   "400032": {
     "type": "GIFT",
@@ -1933,7 +2725,10 @@
       "sp": 0,
       "ws": 0,
       "as": 4
-    }
+    },
+    "abnormality_name": "Little Red Riding Hooded Mercenary",
+    "abnormality_id": "100032",
+    "attachment_slot": "MOUTH"
   },
   "400033": {
     "type": "GIFT",
@@ -1944,7 +2739,10 @@
       "sp": 0,
       "ws": 0,
       "as": 2
-    }
+    },
+    "abnormality_name": "Big and Will be Bad Wolf",
+    "abnormality_id": "100033",
+    "attachment_slot": "FACE"
   },
   "400034": {
     "type": "GIFT",
@@ -1955,7 +2753,10 @@
       "sp": 0,
       "ws": 0,
       "as": 2
-    }
+    },
+    "abnormality_name": "You’re Bald…",
+    "abnormality_id": "100034",
+    "attachment_slot": "EYE"
   },
   "400035": {
     "type": "GIFT",
@@ -1966,7 +2767,10 @@
       "sp": 0,
       "ws": 0,
       "as": 6
-    }
+    },
+    "abnormality_name": "Judgement Bird",
+    "abnormality_id": "100035",
+    "attachment_slot": "EYE"
   },
   "400036": {
     "type": "GIFT",
@@ -1977,7 +2781,10 @@
       "sp": 0,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fragment of the Universe",
+    "abnormality_id": "100036",
+    "attachment_slot": "BODY_UP"
   },
   "400038": {
     "type": "GIFT",
@@ -1988,7 +2795,10 @@
       "sp": 7,
       "ws": 7,
       "as": 7
-    }
+    },
+    "abnormality_name": "Apocalypse Bird",
+    "abnormality_id": "N/A",
+    "attachment_slot": "BACK"
   },
   "400039": {
     "type": "GIFT",
@@ -1999,7 +2809,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The King of Greed",
+    "abnormality_id": "100039",
+    "attachment_slot": "RIGHTHAND"
   },
   "400040": {
     "type": "GIFT",
@@ -2010,7 +2823,10 @@
       "sp": 5,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Little Prince",
+    "abnormality_id": "100040",
+    "attachment_slot": "RIGHTHAND"
   },
   "400041": {
     "type": "GIFT",
@@ -2021,7 +2837,10 @@
       "sp": 4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Laetitia",
+    "abnormality_id": "100041",
+    "attachment_slot": "HAIR"
   },
   "400042": {
     "type": "GIFT",
@@ -2032,7 +2851,10 @@
       "sp": 5,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Mountain of Smiling Bodies",
+    "abnormality_id": "100042",
+    "attachment_slot": "EYE"
   },
   "400043": {
     "type": "GIFT",
@@ -2043,7 +2865,10 @@
       "sp": 1,
       "ws": 1,
       "as": 1
-    }
+    },
+    "abnormality_name": "The Funeral of the Dead Butterflies",
+    "abnormality_id": "100043",
+    "attachment_slot": "BACK"
   },
   "400044": {
     "type": "GIFT",
@@ -2054,7 +2879,10 @@
       "sp": 0,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Burrowing Heaven",
+    "abnormality_id": "100044",
+    "attachment_slot": "HAIR"
   },
   "400045": {
     "type": "GIFT",
@@ -2065,7 +2893,10 @@
       "sp": -4,
       "ws": 10,
       "as": 0
-    }
+    },
+    "abnormality_name": "Dream of a Black Swan",
+    "abnormality_id": "100045",
+    "attachment_slot": "HEAD"
   },
   "400046": {
     "type": "GIFT",
@@ -2076,7 +2907,10 @@
       "sp": 2,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Naked Nest",
+    "abnormality_id": "100046",
+    "attachment_slot": "RIGHTHAND"
   },
   "400047": {
     "type": "GIFT",
@@ -2087,7 +2921,10 @@
       "sp": 6,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "The Dreaming Current",
+    "abnormality_id": "100047",
+    "attachment_slot": "MOUTH"
   },
   "400048": {
     "type": "GIFT",
@@ -2098,7 +2935,10 @@
       "sp": 2,
       "ws": 0,
       "as": 4
-    }
+    },
+    "abnormality_name": "The Knight of Despair",
+    "abnormality_id": "100048",
+    "attachment_slot": "RIGHTCHEEK"
   },
   "400049": {
     "type": "GIFT",
@@ -2109,7 +2949,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Schadenfreude",
+    "abnormality_id": "100049",
+    "attachment_slot": "RIGHTHAND"
   },
   "400050": {
     "type": "GIFT",
@@ -2120,7 +2963,10 @@
       "sp": 4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Scarecrow Searching for Wisdom",
+    "abnormality_id": "100050",
+    "attachment_slot": "RIBBORN"
   },
   "400051": {
     "type": "GIFT",
@@ -2131,7 +2977,10 @@
       "sp": 0,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "Warm-hearted Woodsman",
+    "abnormality_id": "100051",
+    "attachment_slot": "BODY_UP"
   },
   "400052": {
     "type": "GIFT",
@@ -2142,7 +2991,10 @@
       "sp": -2,
       "ws": 4,
       "as": 0
-    }
+    },
+    "abnormality_name": "Today’s Shy Look",
+    "abnormality_id": "100052",
+    "attachment_slot": "EYE"
   },
   "400053": {
     "type": "GIFT",
@@ -2153,7 +3005,10 @@
       "sp": 0,
       "ws": 2,
       "as": 0
-    }
+    },
+    "abnormality_name": "Fairy Festival",
+    "abnormality_id": "100053",
+    "attachment_slot": "RIGHTHAND"
   },
   "400054": {
     "type": "GIFT",
@@ -2164,7 +3019,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Meat Lantern",
+    "abnormality_id": "100054",
+    "attachment_slot": "MOUTH"
   },
   "400055": {
     "type": "GIFT",
@@ -2175,7 +3033,10 @@
       "sp": 6,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Dimensional Refraction Variant",
+    "abnormality_id": "100055",
+    "attachment_slot": "HAIR"
   },
   "400056": {
     "type": "GIFT",
@@ -2186,7 +3047,10 @@
       "sp": 10,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "CENSORED",
+    "abnormality_id": "100056",
+    "attachment_slot": "EYE"
   },
   "400057": {
     "type": "GIFT",
@@ -2197,7 +3061,10 @@
       "sp": 10,
       "ws": -6,
       "as": 0
-    }
+    },
+    "abnormality_name": "Porccubus",
+    "abnormality_id": "100057",
+    "attachment_slot": "RIBBORN"
   },
   "400058": {
     "type": "GIFT",
@@ -2208,7 +3075,10 @@
       "sp": 0,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Blue Star",
+    "abnormality_id": "100058",
+    "attachment_slot": "EYE"
   },
   "400059": {
     "type": "GIFT",
@@ -2219,7 +3089,10 @@
       "sp": 2,
       "ws": 0,
       "as": 2
-    }
+    },
+    "abnormality_name": "Grave of Cherry Blossoms",
+    "abnormality_id": "100059",
+    "attachment_slot": "HEAD"
   },
   "400060": {
     "type": "GIFT",
@@ -2230,7 +3103,10 @@
       "sp": 4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Void Dream",
+    "abnormality_id": "100060",
+    "attachment_slot": "HEAD"
   },
   "400061": {
     "type": "GIFT",
@@ -2241,7 +3117,10 @@
       "sp": 2,
       "ws": 0,
       "as": 4
-    }
+    },
+    "abnormality_name": "The Firebird",
+    "abnormality_id": "100061",
+    "attachment_slot": "HEAD"
   },
   "400062": {
     "type": "GIFT",
@@ -2252,7 +3131,10 @@
       "sp": 3,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Parasite Tree",
+    "abnormality_id": "100062",
+    "attachment_slot": "HAIR"
   },
   "400063": {
     "type": "GIFT",
@@ -2263,7 +3145,10 @@
       "sp": 10,
       "ws": -5,
       "as": 0
-    }
+    },
+    "abnormality_name": "Melting Love",
+    "abnormality_id": "100063",
+    "attachment_slot": "HAIR"
   },
   "400064": {
     "type": "GIFT",
@@ -2274,7 +3159,10 @@
       "sp": 5,
       "ws": 0,
       "as": 5
-    }
+    },
+    "abnormality_name": "Army in Black",
+    "abnormality_id": "100064",
+    "attachment_slot": "HAIR"
   },
   "400065": {
     "type": "GIFT",
@@ -2285,7 +3173,10 @@
       "sp": 1,
       "ws": 1,
       "as": 1
-    }
+    },
+    "abnormality_name": "Il Pianto della Luna",
+    "abnormality_id": "100065",
+    "attachment_slot": "BODY_UP"
   },
   "400103": {
     "type": "GIFT",
@@ -2296,7 +3187,10 @@
       "sp": -5,
       "ws": 0,
       "as": 10
-    }
+    },
+    "abnormality_name": "Der Freischütz",
+    "abnormality_id": "100103",
+    "attachment_slot": "MOUTH"
   },
   "400104": {
     "type": "GIFT",
@@ -2307,7 +3201,10 @@
       "sp": -10,
       "ws": 0,
       "as": 20
-    }
+    },
+    "abnormality_name": "Yin",
+    "abnormality_id": "100104",
+    "attachment_slot": "HAIR"
   },
   "400105": {
     "type": "GIFT",
@@ -2318,7 +3215,10 @@
       "sp": -4,
       "ws": 0,
       "as": 0
-    }
+    },
+    "abnormality_name": "Clouded Monk",
+    "abnormality_id": "100105",
+    "attachment_slot": "RIGHTHAND"
   },
   "400106": {
     "type": "GIFT",
@@ -2329,18 +3229,10 @@
       "sp": 0,
       "ws": -2,
       "as": 0
-    }
-  },
-  "1200001": {
-    "type": "WEAPON",
-    "name": "???",
-    "bonus": false,
-    "stats": {
-      "hp": 0,
-      "sp": 0,
-      "ws": 0,
-      "as": 0
-    }
+    },
+    "abnormality_name": "Ppodae",
+    "abnormality_id": "100106",
+    "attachment_slot": "HEAD"
   },
   "4000371": {
     "type": "GIFT",
@@ -2351,7 +3243,10 @@
       "sp": 0,
       "ws": 0,
       "as": 10
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "attachment_slot": "HEAD"
   },
   "4000372": {
     "type": "GIFT",
@@ -2362,7 +3257,10 @@
       "sp": 0,
       "ws": 0,
       "as": 10
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "attachment_slot": "HEAD"
   },
   "4000373": {
     "type": "GIFT",
@@ -2373,7 +3271,10 @@
       "sp": 0,
       "ws": 0,
       "as": 15
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "attachment_slot": "HEAD"
   },
   "4000374": {
     "type": "GIFT",
@@ -2384,6 +3285,9 @@
       "sp": 0,
       "ws": 0,
       "as": 20
-    }
+    },
+    "abnormality_name": "Crumbling Armor",
+    "abnormality_id": "100037",
+    "attachment_slot": "HEAD"
   }
 }
