@@ -1,0 +1,507 @@
+{
+  "100007": {
+    "code": "T-06-27",
+    "name": "1.76 MHz",
+    "risk": "TETH"
+  },
+  "100029": {
+    "code": "T-04-53",
+    "name": "Alriune",
+    "risk": "WAW"
+  },
+  "100037": {
+    "code": "O-05-61",
+    "name": "Crumbling Armor",
+    "risk": "TETH"
+  },
+  "100030": {
+    "code": "O-05-31-W",
+    "name": "Poor Screenwriter’s Note",
+    "risk": "WAW"
+  },
+  "100060": {
+    "code": "T-02-99",
+    "name": "Void Dream",
+    "risk": "TETH"
+  },
+  "100034": {
+    "code": "Bald-is-awesome!",
+    "name": "You’re Bald…",
+    "risk": "ZAYIN"
+  },
+  "100013": {
+    "code": "F-02-44",
+    "name": "Beauty and the Beast",
+    "risk": "TETH"
+  },
+  "100033": {
+    "code": "F-02-58",
+    "name": "Big and Might be Bad Wolf",
+    "risk": "WAW"
+  },
+  "100008": {
+    "code": "O-02-40",
+    "name": "Big Bird",
+    "risk": "WAW"
+  },
+  "300005": {
+    "code": "T-09-80",
+    "name": "Giant Tree Sap",
+    "risk": "HE"
+  },
+  "100045": {
+    "code": "F-02-70",
+    "name": "Dream of a Black Swan",
+    "risk": "WAW"
+  },
+  "100027": {
+    "code": "T-05-51",
+    "name": "Bloodbath",
+    "risk": "TETH"
+  },
+  "100044": {
+    "code": "O-04-72",
+    "name": "The Burrowing Heaven",
+    "risk": "WAW"
+  },
+  "100058": {
+    "code": "O-03-93",
+    "name": "Blue Star",
+    "risk": "ALEPH"
+  },
+  "100038": {
+    "code": "O-02-63",
+    "name": "Apocalypse Bird",
+    "risk": "ALEPH"
+  },
+  "200013": {
+    "code": "X",
+    "name": "The dawn of green",
+    "risk": "TETH"
+  },
+  "200015": {
+    "code": "X",
+    "name": "The dawn of green",
+    "risk": "TETH"
+  },
+  "200016": {
+    "code": "X",
+    "name": "The midnight of green",
+    "risk": "ALEPH"
+  },
+  "100054": {
+    "code": "O-04-84",
+    "name": "Meat Lantern",
+    "risk": "TETH"
+  },
+  "100042": {
+    "code": "T-01-75",
+    "name": "Mountain of Smiling Bodies",
+    "risk": "ALEPH"
+  },
+  "100043": {
+    "code": "T-01-68",
+    "name": "The Funeral of the Dead Butterflies",
+    "risk": "HE"
+  },
+  "100056": {
+    "code": "O-03-89",
+    "name": "CENSORED",
+    "risk": "ALEPH"
+  },
+  "200005": {
+    "code": "X",
+    "name": "녹빛 여명",
+    "risk": "HE"
+  },
+  "200007": {
+    "code": "X",
+    "name": "녹빛 여명",
+    "risk": "HE"
+  },
+  "200006": {
+    "code": "X",
+    "name": "녹빛 여명",
+    "risk": "HE"
+  },
+  "100036": {
+    "code": "O-03-60",
+    "name": "Fragment of the Universe",
+    "risk": "TETH"
+  },
+  "100015": {
+    "code": "T-03-46",
+    "name": "WhiteNight",
+    "risk": "ALEPH"
+  },
+  "300001": {
+    "code": "T-09-77",
+    "name": "The Heart of Aspiration",
+    "risk": "TETH"
+  },
+  "100024": {
+    "code": "O-05-47",
+    "name": "Don’t Touch Me",
+    "risk": "ZAYIN"
+  },
+  "100000": {
+    "code": "0-00-00",
+    "name": "Standard Training-Dummy Rabbit",
+    "risk": "TETH"
+  },
+  "100053": {
+    "code": "F-04-83",
+    "name": "Fairy Festival",
+    "risk": "ZAYIN"
+  },
+  "100105": {
+    "code": "D-01-110",
+    "name": "Honored Monk",
+    "risk": "WAW"
+  },
+  "100061": {
+    "code": "O-02-101",
+    "name": "The Firebird",
+    "risk": "WAW"
+  },
+  "100103": {
+    "code": "F-01-69",
+    "name": "Der Freischütz",
+    "risk": "HE"
+  },
+  "100031": {
+    "code": "O-01-55",
+    "name": "Child of the Galaxy",
+    "risk": "HE"
+  },
+  "100002": {
+    "code": "T-04-06",
+    "name": "A Teddy Bear",
+    "risk": "HE"
+  },
+  "300106": {
+    "code": "O-09-95",
+    "name": "Luminous Bracelet",
+    "risk": "TETH"
+  },
+  "300102": {
+    "code": "T-09-86",
+    "name": "Express Train to Hell",
+    "risk": "WAW"
+  },
+  "100011": {
+    "code": "T-05-41",
+    "name": "Little Helper",
+    "risk": "HE"
+  },
+  "300101": {
+    "code": "T-09-85",
+    "name": "We Can Change Anything",
+    "risk": "ZAYIN"
+  },
+  "300107": {
+    "code": "O-09-96",
+    "name": "Behavior Adjustment",
+    "risk": "TETH"
+  },
+  "100048": {
+    "code": "O-01-73",
+    "name": "Magical Girl",
+    "risk": "WAW"
+  },
+  "100022": {
+    "code": "F-01-18",
+    "name": "Wall Gazer",
+    "risk": "TETH"
+  },
+  "100025": {
+    "code": "O-05-48-Z",
+    "name": "Hammer of light",
+    "risk": "ZAYIN"
+  },
+  "100041": {
+    "code": "O-01-67",
+    "name": "A Wee Witch",
+    "risk": "HE"
+  },
+  "100035": {
+    "code": "O-02-62",
+    "name": "Long Bird",
+    "risk": "WAW"
+  },
+  "100049": {
+    "code": "O-05-76",
+    "name": "Schadenfreude",
+    "risk": "HE"
+  },
+  "100051": {
+    "code": "F-05-32",
+    "name": "Warm-hearted Woodsman",
+    "risk": "HE"
+  },
+  "200001": {
+    "code": "X",
+    "name": "The dawn of green",
+    "risk": "TETH"
+  },
+  "200003": {
+    "code": "X",
+    "name": "The midnight of green",
+    "risk": "ALEPH"
+  },
+  "200004": {
+    "code": "X",
+    "name": "The midnight of green",
+    "risk": "ALEPH"
+  },
+  "200002": {
+    "code": "X",
+    "name": "The noon of green",
+    "risk": "HE"
+  },
+  "100039": {
+    "code": "O-01-64",
+    "name": "Magical Girl",
+    "risk": "WAW"
+  },
+  "100004": {
+    "code": "O-01-04",
+    "name": "Magical Girl",
+    "risk": "WAW"
+  },
+  "100001": {
+    "code": "F-01-02",
+    "name": "Scorched Girl",
+    "risk": "TETH"
+  },
+  "300004": {
+    "code": "T-09-79",
+    "name": "Flesh Idol",
+    "risk": "WAW"
+  },
+  "100017": {
+    "code": "O-01-15",
+    "name": "Nameless Fetus",
+    "risk": "HE"
+  },
+  "100005": {
+    "code": "O-06-20",
+    "name": "Nothing There",
+    "risk": "ALEPH"
+  },
+  "100021": {
+    "code": "O-01-12",
+    "name": "Old Lady",
+    "risk": "TETH"
+  },
+  "100009": {
+    "code": "O-03-03",
+    "name": "One Sin and Hundreds of Good Deeds",
+    "risk": "ZAYIN"
+  },
+  "100010": {
+    "code": "0-01-04-W",
+    "name": "My Sweet Orange Tree",
+    "risk": "WAW"
+  },
+  "300104": {
+    "code": "O-09-91",
+    "name": "Portrait of Another World",
+    "risk": "HE"
+  },
+  "200009": {
+    "code": "X",
+    "name": "The dawn of green",
+    "risk": "TETH"
+  },
+  "200010": {
+    "code": "X",
+    "name": "녹빛 여명",
+    "risk": "HE"
+  },
+  "100065": {
+    "code": "D-01-105",
+    "name": "Il Pianto della Luna",
+    "risk": "WAW"
+  },
+  "100064": {
+    "code": "D-01-106",
+    "name": "Army in Pink",
+    "risk": "ZAYIN"
+  },
+  "100014": {
+    "code": "O-01-45",
+    "name": "Plague Doctor",
+    "risk": "ZAYIN"
+  },
+  "100057": {
+    "code": "O-02-98",
+    "name": "Porccubus",
+    "risk": "HE"
+  },
+  "100106": {
+    "code": "D-02-107",
+    "name": "Ppodae",
+    "risk": "TETH"
+  },
+  "300108": {
+    "code": "T-09-97",
+    "name": "Old Faith and Promise",
+    "risk": "ZAYIN"
+  },
+  "300103": {
+    "code": "T-09-90",
+    "name": "Skin Prophecy",
+    "risk": "TETH"
+  },
+  "100026": {
+    "code": "T-04-50",
+    "name": "Queen Bee",
+    "risk": "WAW"
+  },
+  "100032": {
+    "code": "F-01-57",
+    "name": "Little Red Riding Hooded Mercenary",
+    "risk": "WAW"
+  },
+  "100003": {
+    "code": "O-04-08",
+    "name": "The Red Shoes",
+    "risk": "HE"
+  },
+  "300002": {
+    "code": "T-09-78",
+    "name": "Notes from a Crazed Researcher",
+    "risk": "HE"
+  },
+  "300007": {
+    "code": "O-09-81",
+    "name": "Mirror of Adjustment",
+    "risk": "ZAYIN"
+  },
+  "300110": {
+    "code": "D-09-104",
+    "name": "Backward Clock",
+    "risk": "WAW"
+  },
+  "100016": {
+    "code": "F-02-49",
+    "name": "Rudolta of the Sleigh",
+    "risk": "HE"
+  },
+  "100059": {
+    "code": "O-04-100",
+    "name": "Grave of Cherry Blossoms",
+    "risk": "TETH"
+  },
+  "100050": {
+    "code": "F-01-87",
+    "name": "Scarecrow Searching for Wisdom",
+    "risk": "HE"
+  },
+  "100101": {
+    "code": "O-05-65-H",
+    "name": "Price of Silence",
+    "risk": "HE"
+  },
+  "100047": {
+    "code": "T-02-71",
+    "name": "The Dreaming Current",
+    "risk": "WAW"
+  },
+  "300006": {
+    "code": "T-09-82",
+    "name": "Shelter from the 27th of March",
+    "risk": "HE"
+  },
+  "100052": {
+    "code": "O-01-92",
+    "name": "Today’s Shy Look",
+    "risk": "TETH"
+  },
+  "100019": {
+    "code": "T-01-31",
+    "name": "The Silent Orchestra",
+    "risk": "ALEPH"
+  },
+  "100006": {
+    "code": "O-05-30",
+    "name": "Singing Machine",
+    "risk": "HE"
+  },
+  "100063": {
+    "code": "D-03-109",
+    "name": "Melting Love",
+    "risk": "ALEPH"
+  },
+  "100020": {
+    "code": "O-02-56",
+    "name": "Small Bird",
+    "risk": "TETH"
+  },
+  "100102": {
+    "code": "F-01-37",
+    "name": "The Snow Queen",
+    "risk": "HE"
+  },
+  "100023": {
+    "code": "F-04-42",
+    "name": "Snow White's Apple",
+    "risk": "WAW"
+  },
+  "100012": {
+    "code": "T-02-43",
+    "name": "Spider Bud",
+    "risk": "TETH"
+  },
+  "100018": {
+    "code": "T-01-54",
+    "name": "Forsaken Murderer",
+    "risk": "TETH"
+  },
+  "300003": {
+    "code": "T-09-09",
+    "name": "Theresia",
+    "risk": "TETH"
+  },
+  "100046": {
+    "code": "O-02-74",
+    "name": "The Naked Nest",
+    "risk": "WAW"
+  },
+  "100028": {
+    "code": "F-05-52",
+    "name": "WellCheers",
+    "risk": "ZAYIN"
+  },
+  "100055": {
+    "code": "O-03-88",
+    "name": "Dimensional Refraction Variant",
+    "risk": "WAW"
+  },
+  "300109": {
+    "code": "O-07-103",
+    "name": "Yang",
+    "risk": "WAW"
+  },
+  "100062": {
+    "code": "D-04-108",
+    "name": "World Tree",
+    "risk": "WAW"
+  },
+  "100104": {
+    "code": "O-05-102",
+    "name": "Yin",
+    "risk": "WAW"
+  },
+  "300105": {
+    "code": "T-09-94",
+    "name": "You Must Be Happy",
+    "risk": "ZAYIN"
+  },
+  "100040": {
+    "code": "O-04-66",
+    "name": "Giant Mushroom Chunk",
+    "risk": "WAW"
+  }
+}

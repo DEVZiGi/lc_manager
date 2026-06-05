@@ -1,0 +1,2389 @@
+{
+  "1": {
+    "type": "WEAPON",
+    "name": "Standard Riot Stick",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "2": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "3": {
+    "type": "ARMOR",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "4": {
+    "type": "WEAPON",
+    "name": "Standard Riot Stick",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "5": {
+    "type": "ARMOR",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "11": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "22": {
+    "type": "ARMOR",
+    "name": "Standard Uniform",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "101": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200": {
+    "type": "ARMOR",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "1021": {
+    "type": "GIFT",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "1022": {
+    "type": "GIFT",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "1023": {
+    "type": "GIFT",
+    "name": "Those who know the Cruelty of Winter and the Aroma of Roses",
+    "bonus": true,
+    "stats": {
+      "hp": 6,
+      "sp": 6,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "1033": {
+    "type": "GIFT",
+    "name": "Sheep’s Clothing",
+    "bonus": true,
+    "stats": {
+      "hp": 9,
+      "sp": -3,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "100018": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "100036": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "100041": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "100046": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "100105": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "177777": {
+    "type": "WEAPON",
+    "name": "Standard Riot Stick",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200000": {
+    "type": "WEAPON",
+    "name": "Standard Training E.G.O",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200001": {
+    "type": "WEAPON",
+    "name": "Fourth Match Flame",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200002": {
+    "type": "WEAPON",
+    "name": "Bear Paws",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200003": {
+    "type": "WEAPON",
+    "name": "Sanguine Desire",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200004": {
+    "type": "WEAPON",
+    "name": "In the Name of Love and Hate",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200005": {
+    "type": "WEAPON",
+    "name": "Mimicry",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200006": {
+    "type": "WEAPON",
+    "name": "Harmony",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200008": {
+    "type": "WEAPON",
+    "name": "Lamp",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200009": {
+    "type": "WEAPON",
+    "name": "Penitence",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200011": {
+    "type": "WEAPON",
+    "name": "Grinder Mk4",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200012": {
+    "type": "WEAPON",
+    "name": "Red Eyes",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200013": {
+    "type": "WEAPON",
+    "name": "Horn",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200015": {
+    "type": "WEAPON",
+    "name": "Paradise Lost",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200016": {
+    "type": "WEAPON",
+    "name": "Christmas",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200017": {
+    "type": "WEAPON",
+    "name": "Syrinx",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200018": {
+    "type": "WEAPON",
+    "name": "Regret",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200019": {
+    "type": "WEAPON",
+    "name": "Da Capo",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200020": {
+    "type": "WEAPON",
+    "name": "Beak",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200021": {
+    "type": "WEAPON",
+    "name": "Solitude",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200022": {
+    "type": "WEAPON",
+    "name": "Screaming Wedge",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200023": {
+    "type": "WEAPON",
+    "name": "Green Stem",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200026": {
+    "type": "WEAPON",
+    "name": "Hornet",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200027": {
+    "type": "WEAPON",
+    "name": "Wrist Cutter",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200028": {
+    "type": "WEAPON",
+    "name": "Soda",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200029": {
+    "type": "WEAPON",
+    "name": "Faint Aroma",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200031": {
+    "type": "WEAPON",
+    "name": "Our Galaxy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200032": {
+    "type": "WEAPON",
+    "name": "Crimson Scar",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200033": {
+    "type": "WEAPON",
+    "name": "Cobalt Scar",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200034": {
+    "type": "WEAPON",
+    "name": "Tough",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200035": {
+    "type": "WEAPON",
+    "name": "Justitia",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200036": {
+    "type": "WEAPON",
+    "name": "Fragments from Somewhere",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200037": {
+    "type": "WEAPON",
+    "name": "Life for a Daredevil",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200038": {
+    "type": "WEAPON",
+    "name": "Twilight",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200039": {
+    "type": "WEAPON",
+    "name": "Gold Rush",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200040": {
+    "type": "WEAPON",
+    "name": "Spore",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200041": {
+    "type": "WEAPON",
+    "name": "Laetitia",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200042": {
+    "type": "WEAPON",
+    "name": "Smile",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200043": {
+    "type": "WEAPON",
+    "name": "Solemn Lament",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200044": {
+    "type": "WEAPON",
+    "name": "Heaven",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200045": {
+    "type": "WEAPON",
+    "name": "Black Swan",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200046": {
+    "type": "WEAPON",
+    "name": "Exuviae",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200047": {
+    "type": "WEAPON",
+    "name": "Ecstasy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200048": {
+    "type": "WEAPON",
+    "name": "The Sword Sharpened with Tears",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200049": {
+    "type": "WEAPON",
+    "name": "Gaze",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200050": {
+    "type": "WEAPON",
+    "name": "Harvest",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200051": {
+    "type": "WEAPON",
+    "name": "Logging",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200052": {
+    "type": "WEAPON",
+    "name": "Today’s Expression",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200053": {
+    "type": "WEAPON",
+    "name": "Wingbeat",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200054": {
+    "type": "WEAPON",
+    "name": "Lantern",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200055": {
+    "type": "WEAPON",
+    "name": "Diffraction",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200056": {
+    "type": "WEAPON",
+    "name": "CENSORED",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200057": {
+    "type": "WEAPON",
+    "name": "Pleasure",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200058": {
+    "type": "WEAPON",
+    "name": "Sound of a Star",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200059": {
+    "type": "WEAPON",
+    "name": "Cherry Blossoms",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200060": {
+    "type": "WEAPON",
+    "name": "Engulfing Dream",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200061": {
+    "type": "WEAPON",
+    "name": "Feather of Honor",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200062": {
+    "type": "WEAPON",
+    "name": "Hypocrisy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200063": {
+    "type": "WEAPON",
+    "name": "Adoration",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200064": {
+    "type": "WEAPON",
+    "name": "Pink",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200065": {
+    "type": "WEAPON",
+    "name": "Moonlight",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200102": {
+    "type": "WEAPON",
+    "name": "Frost Splinter",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200103": {
+    "type": "WEAPON",
+    "name": "Magic Bullet",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200104": {
+    "type": "WEAPON",
+    "name": "Discord",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200105": {
+    "type": "WEAPON",
+    "name": "Amita",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "200106": {
+    "type": "WEAPON",
+    "name": "SO CUTE!!!",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "277777": {
+    "type": "ARMOR",
+    "name": "Standard Uniform",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300000": {
+    "type": "ARMOR",
+    "name": "Standard Training E.G.O",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300001": {
+    "type": "ARMOR",
+    "name": "Fourth Match Flame",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300002": {
+    "type": "ARMOR",
+    "name": "Bear Paws",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300003": {
+    "type": "ARMOR",
+    "name": "Sanguine Desire",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300004": {
+    "type": "ARMOR",
+    "name": "In the Name of Love and Hate",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300005": {
+    "type": "ARMOR",
+    "name": "Mimicry",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300007": {
+    "type": "ARMOR",
+    "name": "Noise",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300008": {
+    "type": "ARMOR",
+    "name": "Lamp",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300009": {
+    "type": "ARMOR",
+    "name": "Penitence",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300011": {
+    "type": "ARMOR",
+    "name": "Grinder Mk4",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300012": {
+    "type": "ARMOR",
+    "name": "Red Eyes",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300013": {
+    "type": "ARMOR",
+    "name": "Horn",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300015": {
+    "type": "ARMOR",
+    "name": "Paradise Lost",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300016": {
+    "type": "ARMOR",
+    "name": "Christmas",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300017": {
+    "type": "ARMOR",
+    "name": "Syrinx",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300018": {
+    "type": "ARMOR",
+    "name": "Regret",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300019": {
+    "type": "ARMOR",
+    "name": "Da Capo",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300020": {
+    "type": "ARMOR",
+    "name": "Beak",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300021": {
+    "type": "ARMOR",
+    "name": "Solitude",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300022": {
+    "type": "ARMOR",
+    "name": "Screaming Wedge",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300023": {
+    "type": "ARMOR",
+    "name": "Green Stem",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300026": {
+    "type": "ARMOR",
+    "name": "Hornet",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300027": {
+    "type": "ARMOR",
+    "name": "Wrist Cutter",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300028": {
+    "type": "ARMOR",
+    "name": "Soda",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300029": {
+    "type": "ARMOR",
+    "name": "Faint Aroma",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300031": {
+    "type": "ARMOR",
+    "name": "Our Galaxy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300032": {
+    "type": "ARMOR",
+    "name": "Crimson Scar",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300033": {
+    "type": "ARMOR",
+    "name": "Cobalt Scar",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300034": {
+    "type": "ARMOR",
+    "name": "Tough",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300035": {
+    "type": "ARMOR",
+    "name": "Justitia",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300036": {
+    "type": "ARMOR",
+    "name": "Fragments from Somewhere",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300037": {
+    "type": "ARMOR",
+    "name": "Life for a Daredevil",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300038": {
+    "type": "ARMOR",
+    "name": "Twilight",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300039": {
+    "type": "ARMOR",
+    "name": "Gold Rush",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300040": {
+    "type": "ARMOR",
+    "name": "Spore",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300041": {
+    "type": "ARMOR",
+    "name": "Laetitia",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300042": {
+    "type": "ARMOR",
+    "name": "Smile",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300043": {
+    "type": "ARMOR",
+    "name": "Solemn Lament",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300044": {
+    "type": "ARMOR",
+    "name": "Heaven",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300045": {
+    "type": "ARMOR",
+    "name": "Black Swan",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300046": {
+    "type": "ARMOR",
+    "name": "Exuviae",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300047": {
+    "type": "ARMOR",
+    "name": "Ecstasy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300048": {
+    "type": "ARMOR",
+    "name": "The Sword Sharpened with Tears",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300049": {
+    "type": "ARMOR",
+    "name": "Gaze",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300050": {
+    "type": "ARMOR",
+    "name": "Harvest",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300051": {
+    "type": "ARMOR",
+    "name": "Logging",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300052": {
+    "type": "ARMOR",
+    "name": "Today’s Expression",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300053": {
+    "type": "ARMOR",
+    "name": "Wingbeat",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300054": {
+    "type": "ARMOR",
+    "name": "Lantern",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300057": {
+    "type": "ARMOR",
+    "name": "Pleasure",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300058": {
+    "type": "ARMOR",
+    "name": "Sound of a Star",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300059": {
+    "type": "ARMOR",
+    "name": "Cherry Blossoms",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300060": {
+    "type": "ARMOR",
+    "name": "Engulfing Dream",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300061": {
+    "type": "ARMOR",
+    "name": "Feather of Honor",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300062": {
+    "type": "ARMOR",
+    "name": "Hypocrisy",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300063": {
+    "type": "ARMOR",
+    "name": "Adoration",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300064": {
+    "type": "ARMOR",
+    "name": "Pink",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300065": {
+    "type": "ARMOR",
+    "name": "Moonlight",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300102": {
+    "type": "ARMOR",
+    "name": "Frost Splinter",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300103": {
+    "type": "ARMOR",
+    "name": "Magic Bullet",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300104": {
+    "type": "ARMOR",
+    "name": "Discord",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300105": {
+    "type": "ARMOR",
+    "name": "Amita",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "300106": {
+    "type": "ARMOR",
+    "name": "SO CUTE!!!",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400000": {
+    "type": "GIFT",
+    "name": "Standard Training E.G.O",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 2,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400001": {
+    "type": "GIFT",
+    "name": "Fourth Match Flame",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400002": {
+    "type": "GIFT",
+    "name": "Bear Paws",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400003": {
+    "type": "GIFT",
+    "name": "Sanguine Desire",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400004": {
+    "type": "GIFT",
+    "name": "In the Name of Love and Hate",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 2,
+      "as": 4
+    }
+  },
+  "400005": {
+    "type": "GIFT",
+    "name": "Mimicry",
+    "bonus": true,
+    "stats": {
+      "hp": 10,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400006": {
+    "type": "GIFT",
+    "name": "Harmony",
+    "bonus": true,
+    "stats": {
+      "hp": 8,
+      "sp": -4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400007": {
+    "type": "GIFT",
+    "name": "Noise",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 2
+    }
+  },
+  "400008": {
+    "type": "GIFT",
+    "name": "Lamp",
+    "bonus": true,
+    "stats": {
+      "hp": 3,
+      "sp": 0,
+      "ws": 3,
+      "as": 0
+    }
+  },
+  "400009": {
+    "type": "GIFT",
+    "name": "Penitence",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 2,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400011": {
+    "type": "GIFT",
+    "name": "Grinder Mk4",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 4,
+      "as": 0
+    }
+  },
+  "400012": {
+    "type": "GIFT",
+    "name": "Red Eyes",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 3,
+      "as": 0
+    }
+  },
+  "400013": {
+    "type": "GIFT",
+    "name": "Horn",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 2,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400014": {
+    "type": "GIFT",
+    "name": "Benediction",
+    "bonus": true,
+    "stats": {
+      "hp": 6,
+      "sp": 6,
+      "ws": 6,
+      "as": 6
+    }
+  },
+  "400015": {
+    "type": "GIFT",
+    "name": "Paradise Lost",
+    "bonus": true,
+    "stats": {
+      "hp": 10,
+      "sp": 10,
+      "ws": 0,
+      "as": 10
+    }
+  },
+  "400016": {
+    "type": "GIFT",
+    "name": "Christmas",
+    "bonus": true,
+    "stats": {
+      "hp": -4,
+      "sp": 8,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400017": {
+    "type": "GIFT",
+    "name": "Syrinx",
+    "bonus": true,
+    "stats": {
+      "hp": -2,
+      "sp": -2,
+      "ws": 0,
+      "as": 6
+    }
+  },
+  "400018": {
+    "type": "GIFT",
+    "name": "Regret",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 2,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400019": {
+    "type": "GIFT",
+    "name": "Da Capo",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 4,
+      "as": 0
+    }
+  },
+  "400020": {
+    "type": "GIFT",
+    "name": "Beak",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 2
+    }
+  },
+  "400021": {
+    "type": "GIFT",
+    "name": "Solitude",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 3,
+      "as": 0
+    }
+  },
+  "400023": {
+    "type": "GIFT",
+    "name": "Green Stem",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 6,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400026": {
+    "type": "GIFT",
+    "name": "Hornet",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400027": {
+    "type": "GIFT",
+    "name": "Wrist Cutter",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400028": {
+    "type": "GIFT",
+    "name": "Soda",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400029": {
+    "type": "GIFT",
+    "name": "Faint Aroma",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 4,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400031": {
+    "type": "GIFT",
+    "name": "Our Galaxy",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 3,
+      "as": 0
+    }
+  },
+  "400032": {
+    "type": "GIFT",
+    "name": "Crimson Scar",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 0,
+      "ws": 0,
+      "as": 4
+    }
+  },
+  "400033": {
+    "type": "GIFT",
+    "name": "Cobalt Scar",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": 0,
+      "as": 2
+    }
+  },
+  "400034": {
+    "type": "GIFT",
+    "name": "Tough",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 2
+    }
+  },
+  "400035": {
+    "type": "GIFT",
+    "name": "Justitia",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 6
+    }
+  },
+  "400036": {
+    "type": "GIFT",
+    "name": "Fragments from Somewhere",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400038": {
+    "type": "GIFT",
+    "name": "Through the Dark Twilight",
+    "bonus": true,
+    "stats": {
+      "hp": 7,
+      "sp": 7,
+      "ws": 7,
+      "as": 7
+    }
+  },
+  "400039": {
+    "type": "GIFT",
+    "name": "Gold Rush",
+    "bonus": true,
+    "stats": {
+      "hp": 6,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400040": {
+    "type": "GIFT",
+    "name": "Spore",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 5,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400041": {
+    "type": "GIFT",
+    "name": "Laetitia",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400042": {
+    "type": "GIFT",
+    "name": "Smile",
+    "bonus": true,
+    "stats": {
+      "hp": 5,
+      "sp": 5,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400043": {
+    "type": "GIFT",
+    "name": "Solemn Lament",
+    "bonus": true,
+    "stats": {
+      "hp": 1,
+      "sp": 1,
+      "ws": 1,
+      "as": 1
+    }
+  },
+  "400044": {
+    "type": "GIFT",
+    "name": "Heaven",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400045": {
+    "type": "GIFT",
+    "name": "Black Swan",
+    "bonus": true,
+    "stats": {
+      "hp": -4,
+      "sp": -4,
+      "ws": 10,
+      "as": 0
+    }
+  },
+  "400046": {
+    "type": "GIFT",
+    "name": "Exuviae",
+    "bonus": true,
+    "stats": {
+      "hp": 5,
+      "sp": 2,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400047": {
+    "type": "GIFT",
+    "name": "Ecstasy",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 6,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400048": {
+    "type": "GIFT",
+    "name": "The Sword Sharpened with Tears",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 2,
+      "ws": 0,
+      "as": 4
+    }
+  },
+  "400049": {
+    "type": "GIFT",
+    "name": "Gaze",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400050": {
+    "type": "GIFT",
+    "name": "Harvest",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400051": {
+    "type": "GIFT",
+    "name": "Logging",
+    "bonus": true,
+    "stats": {
+      "hp": 2,
+      "sp": 0,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400052": {
+    "type": "GIFT",
+    "name": "Today’s Expression",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": -2,
+      "ws": 4,
+      "as": 0
+    }
+  },
+  "400053": {
+    "type": "GIFT",
+    "name": "Wingbeat",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 2,
+      "as": 0
+    }
+  },
+  "400054": {
+    "type": "GIFT",
+    "name": "Lantern",
+    "bonus": true,
+    "stats": {
+      "hp": 5,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400055": {
+    "type": "GIFT",
+    "name": "Diffraction",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 6,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400056": {
+    "type": "GIFT",
+    "name": "CENSORED",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 10,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400057": {
+    "type": "GIFT",
+    "name": "Pleasure",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 10,
+      "ws": -6,
+      "as": 0
+    }
+  },
+  "400058": {
+    "type": "GIFT",
+    "name": "Sound of a Star",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400059": {
+    "type": "GIFT",
+    "name": "Cherry Blossoms",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 2,
+      "ws": 0,
+      "as": 2
+    }
+  },
+  "400060": {
+    "type": "GIFT",
+    "name": "Engulfing Dream",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400061": {
+    "type": "GIFT",
+    "name": "Feather of Honor",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 2,
+      "ws": 0,
+      "as": 4
+    }
+  },
+  "400062": {
+    "type": "GIFT",
+    "name": "Hypocrisy",
+    "bonus": true,
+    "stats": {
+      "hp": 3,
+      "sp": 3,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400063": {
+    "type": "GIFT",
+    "name": "Adoration",
+    "bonus": true,
+    "stats": {
+      "hp": 5,
+      "sp": 10,
+      "ws": -5,
+      "as": 0
+    }
+  },
+  "400064": {
+    "type": "GIFT",
+    "name": "Pink",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 5,
+      "ws": 0,
+      "as": 5
+    }
+  },
+  "400065": {
+    "type": "GIFT",
+    "name": "Moonlight",
+    "bonus": true,
+    "stats": {
+      "hp": 1,
+      "sp": 1,
+      "ws": 1,
+      "as": 1
+    }
+  },
+  "400103": {
+    "type": "GIFT",
+    "name": "Magic Bullet",
+    "bonus": true,
+    "stats": {
+      "hp": -5,
+      "sp": -5,
+      "ws": 0,
+      "as": 10
+    }
+  },
+  "400104": {
+    "type": "GIFT",
+    "name": "Discord",
+    "bonus": true,
+    "stats": {
+      "hp": -10,
+      "sp": -10,
+      "ws": 0,
+      "as": 20
+    }
+  },
+  "400105": {
+    "type": "GIFT",
+    "name": "Amita",
+    "bonus": true,
+    "stats": {
+      "hp": 10,
+      "sp": -4,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "400106": {
+    "type": "GIFT",
+    "name": "SO CUTE!!!",
+    "bonus": true,
+    "stats": {
+      "hp": 4,
+      "sp": 0,
+      "ws": -2,
+      "as": 0
+    }
+  },
+  "1200001": {
+    "type": "WEAPON",
+    "name": "???",
+    "bonus": false,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 0
+    }
+  },
+  "4000371": {
+    "type": "GIFT",
+    "name": "Inspired Bravery",
+    "bonus": true,
+    "stats": {
+      "hp": 0,
+      "sp": 0,
+      "ws": 0,
+      "as": 10
+    }
+  },
+  "4000372": {
+    "type": "GIFT",
+    "name": "Reckless Foolishness",
+    "bonus": true,
+    "stats": {
+      "hp": -5,
+      "sp": 0,
+      "ws": 0,
+      "as": 10
+    }
+  },
+  "4000373": {
+    "type": "GIFT",
+    "name": "Reckless Foolishness",
+    "bonus": true,
+    "stats": {
+      "hp": -10,
+      "sp": 0,
+      "ws": 0,
+      "as": 15
+    }
+  },
+  "4000374": {
+    "type": "GIFT",
+    "name": "Reckless Foolishness",
+    "bonus": true,
+    "stats": {
+      "hp": -20,
+      "sp": 0,
+      "ws": 0,
+      "as": 20
+    }
+  }
+}
